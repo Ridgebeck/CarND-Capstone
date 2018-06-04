@@ -3,7 +3,11 @@ This is the project repo for the final project of the Udacity Self-Driving Car N
 Please use **one** of the two installation options, either native **or** docker installation.
 
 ### Team Members
+
+Team Lead: Niklas Beck (beck.niklas@gmail.com)
+Kevin La Ra (klara@gatech.edu)
 Li Zhang (lizhang.sc@gmail.com)
+Ming Li (leilei2988@hotmai.com)
 
 ### Native Installation
 
