@@ -5,9 +5,9 @@ Please use **one** of the two installation options, either native **or** docker 
 ### Team Members
 
 * Team Lead: Niklas Beck (beck.niklas@gmail.com)
-* Kevin La Ra (klara@gatech.edu)
+* Kevin La Ra (kglara@yahoo.com)
 * Li Zhang (lizhang.sc@gmail.com)
-* Ming Li (leilei2988@hotmai.com)
+* Ming Li (leilei2988@hotmail.com)
 
 ### Native Installation
 
